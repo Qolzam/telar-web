@@ -29,9 +29,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -89,9 +89,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -126,7 +126,7 @@ functions:
     environment:
       app_name: Telar Social
       base_route: /auth
-      client_id: kfbksjbdf
+      client_id: asdfsdf
       client_secret: ""
       cookie_root_domain: .o6s.io
       db_type: mongo
@@ -155,9 +155,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       report_status: "true"
       signature_cookie_name: si
@@ -216,9 +216,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -275,9 +275,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -334,9 +334,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -371,7 +371,7 @@ functions:
     environment:
       app_name: Telar Social
       base_route: /storage
-      bucket_name: kfbksjbdf.appspot.com
+      bucket_name: asdfsdf.appspot.com
       cookie_root_domain: .o6s.io
       db_type: mongo
       exec_timeout: "20"
@@ -395,9 +395,9 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
+      recaptcha_site_key: asdfsdf
       redis_address: redis-19712.c12.us-east-1-4.ec2.cloud.redislabs.com:19712
-      ref_email: asdfsdfs
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com

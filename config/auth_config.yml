@@ -1,6 +1,6 @@
 environment:
   base_route: /auth
-  client_id: kfbksjbdf
+  client_id: asdfsdf
   client_secret: ""
   github_app_id: "12345"
   oauth_client_secret_path: /var/openfaas/secrets/ts-client-secret
